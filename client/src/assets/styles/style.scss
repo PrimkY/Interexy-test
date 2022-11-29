@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+div a {
+  color: white;
+  text-decoration: none;
+  :visited {
+    color: white;
+    text-decoration: none;
+  }
+  :hover{
+    color: bisque;
+    text-decoration: none;
+  }
+}
